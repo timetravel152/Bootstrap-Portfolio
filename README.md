@@ -4,6 +4,8 @@ Bootstrap makes everything so much easier and cleaner! Easier to work with and h
 
 Websites for your company or for yourself are easy to make with bootstrap! Later on javascript will add some cool animations to your pages. 
 
+The page is mobile friendly and is able to adjust to the screen sizes.
+
 
 Screenshots
 
